@@ -7,6 +7,7 @@
 # Initial Host Setup
 - Installed Proxmox VE on bare metal (i7 7700, 32GB RAM, 128GB NVME, 9TB HDD)
 - Set static IP
+- Disabled 'Enterprise' Repo and Added Community Repo
 - Configured a primary PVEAdmin User
 - Verified Local DNS, gateway, and Proxmox UI access
 
