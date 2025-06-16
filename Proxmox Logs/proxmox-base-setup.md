@@ -65,8 +65,3 @@
 - DNS resolution tested and restored
 
 ---
-
-## Next Milestone
-- Create Ubuntu Server VM for NAS
-- Pass through storage drives
-- Install MergerFS + Samba/NFS
