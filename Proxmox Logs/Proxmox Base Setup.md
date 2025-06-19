@@ -1,3 +1,4 @@
+# Proxmox Base Setup 
 
 This guide outlines the initial configuration and post-install setup of the Proxmox Server intended for the *homelab* environment I personally run. 
 
